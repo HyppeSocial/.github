@@ -4,7 +4,7 @@
 
 **We build digital products and services for the creator economy and online businesses.**
 
-[Website](https://hyppesocial.com) · [Explore our repositories](https://github.com/orgs/HyppeSocial/repositories)
+[Website](https://hyppesocial.com)
 
 </div>
 
